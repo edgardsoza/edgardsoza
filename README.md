@@ -2,8 +2,8 @@
 - 👋 Hi, I’m @edgardsoza </br>
 - 👀 I’m interested in new opportunities as a Fullstack Developer since I have experience with JavaScript, CSS, HTML, React, and ROR. </br>
 - 🌱 I’m currently interested in learning Python since that was the first language I was interested in. </br>
-- 💞️ I’m looking to collaborate on any projects you can have for me. I am a quick learner and I am open to new languages if required. https://www.linkedin.com/in/edgard-soza-sobalvarro/</br>
-- 📫 You can reach me at: edgard.soza@gmail.com / jose.sozasobalvarro@gmail.com / +505-78473131 / </br>
+- 💞️ I’m looking to collaborate on any projects you can have for me. I am a quick learner and I am open to new languages if required.</br>
+- 📫 You can reach me at: edgard.soza@gmail.com / jose.sozasobalvarro@gmail.com / +505-78473131 / https://www.linkedin.com/in/edgard-soza-sobalvarro/</br>
 - I like Marvel movies and going to the beach with my family. 
 - I don't like seafood. Weird, right?
 
