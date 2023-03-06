@@ -1,4 +1,7 @@
 <h1>About me!!</h1>
+
+<img href="/edgardsoza">
+
 - 👋 Hi, I’m @edgardsoza </br>
 - 👀 I’m interested in new opportunities as a Fullstack Developer since I have experience with JavaScript, CSS, HTML, React, and ROR. </br>
 - 🌱 I’m currently interested in learning Python since that was the first language I was interested in. </br>
